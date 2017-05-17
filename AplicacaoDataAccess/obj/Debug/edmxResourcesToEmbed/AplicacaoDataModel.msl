@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AplicationDBModelStoreContainer" CdmEntityContainer="AplicationDBEntities">
+    <EntitySetMapping Name="Aplicacoes">
+      <EntityTypeMapping TypeName="AplicationDBModel.Aplicacoes">
+        <MappingFragment StoreEntitySet="Aplicacoes">
+          <ScalarProperty Name="Aplicacao" ColumnName="Aplicacao" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Messagem" ColumnName="Messagem" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="DateInfo" ColumnName="DateInfo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,10 @@
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\bin\Debug\AplicacaoDataAccess.dll.config
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\bin\Debug\AplicacaoDataAccess.dll
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\bin\Debug\AplicacaoDataAccess.pdb
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\obj\Debug\AplicacaoDataAccess.dll
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\obj\Debug\AplicacaoDataAccess.pdb
+C:\Users\Mariana\Documents\Visual Studio 2017\Projects\AplicacaoWebApi\AplicacaoDataAccess\obj\Debug\AplicacaoDataAccess.csprojResolveAssemblyReference.cache
